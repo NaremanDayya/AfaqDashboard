@@ -5,6 +5,7 @@ return [
     'daily_logs' => 'سجل العمل اليومي',
     'projects' => 'المشاريع',
     'tasks' => 'المهام',
+    'test' => 'test',
     'add_log' => 'إضافة سجل جديد',
     'edit_log' => 'تعديل السجل',
     'delete_log' => 'حذف السجل',
