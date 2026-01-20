@@ -57,14 +57,14 @@
                         <p class="text-xl text-gray-600 dark:text-gray-400 max-w-xl leading-relaxed">
                             سجل مهامك اليومية بكل سهولة، وشارك تقدمك مع فريق الإدارة بكل شفافية واحترافية. نظام بسيط، ذكي، وفعال.
                         </p>
-                        <div class="flex flex-wrap gap-4 justify-end lg:justify-start">
-                            <a href="{{ route('login') }}" class="px-8 py-4 bg-indigo-600 hover:bg-indigo-700 text-white rounded-2xl font-bold shadow-xl shadow-indigo-500/25 transition transform hover:-translate-y-1">
-                                ابدأ الآن مجاناً
-                            </a>
-                            <a href="#features" class="px-8 py-4 bg-white dark:bg-gray-800 border-2 border-gray-100 dark:border-gray-700 text-gray-700 dark:text-gray-300 rounded-2xl font-bold transition hover:border-indigo-600">
-                                تعرّف على المزيد
-                            </a>
-                        </div>
+{{--                        <div class="flex flex-wrap gap-4 justify-end lg:justify-start">--}}
+{{--                            <a href="{{ route('login') }}" class="px-8 py-4 bg-indigo-600 hover:bg-indigo-700 text-white rounded-2xl font-bold shadow-xl shadow-indigo-500/25 transition transform hover:-translate-y-1">--}}
+{{--                                ابدأ الآن مجاناً--}}
+{{--                            </a>--}}
+{{--                            <a href="#features" class="px-8 py-4 bg-white dark:bg-gray-800 border-2 border-gray-100 dark:border-gray-700 text-gray-700 dark:text-gray-300 rounded-2xl font-bold transition hover:border-indigo-600">--}}
+{{--                                تعرّف على المزيد--}}
+{{--                            </a>--}}
+{{--                        </div>--}}
                     </div>
                     <div class="relative hidden lg:block">
                         <div class="absolute -inset-4 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-3xl blur opacity-20 animate-pulse"></div>

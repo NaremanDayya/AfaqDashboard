@@ -14,13 +14,5 @@
             {{ __('تسجيل الدخول') }}
         </a>
 
-        @if (Route::has('register'))
-            <a
-                href="{{ route('register') }}"
-                class="rounded-lg px-4 py-2 bg-indigo-600 text-white transition hover:bg-indigo-700 focus:outline-none"
-            >
-                {{ __('إنشاء حساب') }}
-            </a>
-        @endif
     @endauth
 </nav>
